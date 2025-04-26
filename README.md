@@ -7,8 +7,8 @@
 
 ## 🛠️ Installation
 ```bash
-git clone Mamografi-Metin-Analizi-ile-BI-RADS-Sınıflandırması.git
-cd Mamografi-Metin-Analizi-ile-BI-RADS-Sınıflandırması
+git clone Mamografi-Metin-Analizi-ile-BI-RADS-Siniflandirmasi.git
+cd Mamografi-Metin-Analizi-ile-BI-RADS-Siniflandirmasi
 ```
 
 
